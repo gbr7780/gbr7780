@@ -49,7 +49,7 @@ gbr369369@naver.com
   <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <br><br>
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gbr7780&&show_icons=true&theme=radical)]
+  ![gbr7780's github stats](https://github-readme-stats.vercel.app/api?username=gbr7780&show_icons=true)
 </div>
 
 
