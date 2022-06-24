@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 <br>
 
-<strong>⚡Carrer&Awards⚡</strong><br>
+<strong>⚡Career&Awards⚡</strong><br>
 2014 충북 기능경기대회 컴퓨터정보통신(現 IT네트워크시스템) 금메달<br>
 2015 충북 기능경기대회 컴퓨터정보통신(現 IT네트워크시스템) 금메달<br>
 글로벌숙련기술진흥원 CISCO 라우터 네트워킹 수료<br>
