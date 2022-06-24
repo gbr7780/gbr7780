@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 <br><br>
 <strong>📧Email📧</strong>
 <br>
-gbr369369@naver.com
+<p>gbr369369@naver.com</p>
 <br><br>
 
 반갑습니다👐<br>
