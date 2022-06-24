@@ -21,11 +21,11 @@ Here are some ideas to get you started:
 
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=JongHa's%20GitHub%20Profile&fontSize=40)
 
-<br><br>
+<br>
 <strong>📧Email📧</strong>
 <br>
 <p>gbr369369@naver.com</p>
-<br><br>
+<br>
 
 반갑습니다👐<br>
 제 이름은 김종하입니다. 백엔드를 공부하고 있어요!<br>
