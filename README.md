@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 2014 충북 기능경기대회 컴퓨터정보통신(現 IT네트워크시스템) 금메달<br>
 2015 충북 기능경기대회 컴퓨터정보통신(現 IT네트워크시스템) 금메달<br>
 글로벌숙련기술진흥원 CISCO 라우터 네트워킹 수료<br>
-前 삼성전자 네트워크사업부 글로벌서비스팀 CL1<br>
+前 삼성전자 IM 네트워크사업부 글로벌서비스팀 CL1<br>
 現 인하공전 컴퓨터시스템 재학생<br><br>
 
 <strong>📧Email📧</strong><br>
@@ -53,6 +53,8 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <br><br>
+  
+  
   ![gbr7780's github stats](https://github-readme-stats.vercel.app/api?username=gbr7780&show_icons=true&count_private=true)
 </div>
 
