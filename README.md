@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 <br><br>
 📧Email📧<br>
 gbr369369@naver.com
+<br><br>
 
 반갑습니다👐<br>
 제 이름은 김종하입니다. 백엔드를 공부하고 있어요!<br>
