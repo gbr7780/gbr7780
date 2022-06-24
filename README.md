@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <div align="center">
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=JongHa's%20GitHub%20Profile&fontSize=40)
-
+<br><br>
 📧Email📧<br>
 gbr369369@naver.com
 
