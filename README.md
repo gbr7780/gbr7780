@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=JongHa's%20GitHub%20Profile&fontSize=40)
 
 <br>
-
+<!--
 <strong>⚡Career&Awards⚡</strong><br>
 2014 충북 기능경기대회 컴퓨터정보통신(現 IT네트워크시스템) 금메달<br>
 2015 충북 기능경기대회 컴퓨터정보통신(現 IT네트워크시스템) 금메달<br>
@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 前 씨앤씨 LCD서비스팀 사원<br>
 前 삼성전자 IM 네트워크사업부 글로벌서비스팀 CL1<br>
 現 인하공전 컴퓨터시스템 재학<br><br>
-
+-->
 
 <strong>📧Email📧</strong><br>
 <a>gbr369369@naver.com</a>
